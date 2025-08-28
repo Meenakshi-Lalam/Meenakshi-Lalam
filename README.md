@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Meenakshi Lalam  
-🔗 [LinkedIn](your-link-here) | 🔗 [GitHub](https://github.com/Meenakshi-Lalam)
+🔗 [LinkedIn](https://www.linkedin.com/in/meenakshi-lalam/) | 🔗 [GitHub](https://github.com/Meenakshi-Lalam)
 
 ---
 
@@ -45,4 +45,4 @@ Centurion University  (2024 – 2028)
 
 ## 📈 Let's Connect!  
 I’m always looking to collaborate on **VLSI-related projects, digital design, and semiconductor technologies**.  
-📩 Feel free to connect with me on [LinkedIn](your-link-here) or explore my repositories here on GitHub.  
+📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/meenakshi-lalam/) or explore my repositories here on GitHub.  
